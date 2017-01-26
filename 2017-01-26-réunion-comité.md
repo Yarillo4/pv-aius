@@ -70,7 +70,7 @@ On effectue un vote de principe pour sa nomination :
 | Votent contre                |  2 |
 | Votent pour                  |  7 |
 
-Bastien Sulyan se présente pour devenir CM Développement afin d'aider au dévellopement des outils de l'AIUS.
+Bastien Sulyan se présente pour devenir CM Développement afin d'aider au dévelopement des outils de l'AIUS.
 
 On effectue un vote de principe pour sa nomination :
 
@@ -83,10 +83,10 @@ On effectue un vote de principe pour sa nomination :
 
 # Illkirch
 
-Il faudrait faire les courses pour le local à Illkirch. 
-Il a deux alternative, soit les fairent au lidl ou au auchan, soit les faire en même temps que celle du local d'Esplanade.
-Dans le deuxième cas, Banc s'occupera d'acheminer les courses à Illkirch, puisqu'il habite à coté de l'UFR et possède une voiture
-Les courses seront donc faitent en même temps que celle d'Esplanade et il faut donc prévenir Benjamin Dusterdick.
+Il serait possible de faire les courses pour le local d'Illkirch en même temps que le nôtre. 
+Il a deux alternative, soit les faire au Lidl ou au auchan, soit les faire en même temps que celles du local d'Esplanade.
+Dans le deuxième cas, Banc s'occupera d'acheminer les courses à Illkirch, puisqu'il habite à coté de l'UFR et qu'il se déplace en voiture.
+Les courses seront donc faites en même temps que celles d'Esplanade et il faut donc prévenir Benjamin Dusterdick.
 
 *Ludovic Muller quitte la réunion à 18:57*
 
@@ -96,22 +96,22 @@ Nicolas Halter est allé à la banque il y a six jours pour demander une carte b
 
 #Grande Bibliothèque Pédagogique Libre
 
-Le projet avance, quelques professeurs ont été questionnés et ils sont globalement d'accords.
-Les contrats de session vont commencer à être signés entre la semaine prochaine et celle d'après.
+Le projet avance, quelques professeurs ont été consultés et ils sont globalement d'accords.
+Les contrats de cession vont commencer à être signés entre la semaine prochaine et celle d'après.
 
 # Evènements à venir
 
 ## Forum étudiants-entreprises
 
-L'ENSIEE a eu du mal à se lancer dans le projet vu qu'il y eu un changement de BDE en décembre. Le nouveau BDE préfère abandonner l'idée de places premiums qui ne leur plaît pas.
+L'ENSIEE a eu du mal à se lancer dans le projet vue qu'il y eu un changement de BDE en décembre. Le nouveau BDE préfère abandonner l'idée de places premium qui ne leur plaît pas.
 Il y aura une réunion jeudi prochain de 18h à 19h à l'UFR.
-Lors du forum, il faudra qu'au moins la moitié du comité soit présent afin d'aider. 
-Il devra y avoir au moins le même nombre de personnes présentent pour l'AIUS que pour l'ENSIIE.
+Lors du forum, il faudra qu'au moins la moitié du comité soit présent afin d'aider et également pour être aussi présent que les membres du BDE de l'ENSIEE.
 
 ## Pot de Pâques
 
-Il faudra donc un chef de projet pour ce pot de pâques se sera Marie-France, aidée par Harmonie.
-On va aussi également tenter d'intégrer l'ASCMI. Il faudra d'abord demander l'avis à l'ADEM et également à l'ASCMI s'ils peuvent participer financièrement.
+Il faudra donc un chef de projet pour ce pot de pâques.
+Ce sera Marie-France, aidée par Harmonie.
+On va aussi également tenter d'intégrer l'ASCMI. Il faudra d'abord demander l'avis à l'ADEM et également demander à l'ASCMI s'ils peuvent participer financièrement.
 
 ## LAN
 
@@ -127,8 +127,7 @@ Il faudra donc prévoir une réunion de travail.
 
 ## CERN 2017
 
-Il faut payer le premier versement pour le bus jusqu'au CERN (30% de la somme totale) et imprimer les affiches à l'ADEM qui ont désormais une imprimante couleur.
-
+Il faut payer une partie du voyage en bus jusqu'au CERN et imprimer les affiches à l'ADEM qui ont désormais une imprimante couleur.
 ## Miniconfs & Ateliers sxb.so
 
 Les differents évènements sont lancés, il manque juste le nom des intervenants.
